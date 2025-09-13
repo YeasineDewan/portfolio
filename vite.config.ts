@@ -5,7 +5,6 @@ import vitePluginInjectDataLocator from "./plugins/vite-plugin-inject-data-locat
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/portfolio/", // ✅ important for GitHub Pages
   plugins: [react(), vitePluginInjectDataLocator(), tailwindcss()],
   server: {
     allowedHosts: true,

@@ -21,7 +21,7 @@ const Home: React.FC = () => {
             transition={{ delay: 0.2, duration: 0.5 }}
             className="md:w-1/2 mb-8 md:mb-0"
           >
-            <h1 className="text-5xl font-bold mb-4">Crafting Secure, High‑Performance Software</h1>
+            <h1 className="text-5xl font-bold mb-4">Md. Yeasine Dewan Shawon</h1>
             <p className="text-xl mb-8">
               I'm a <span className="inline-block">
                 <Typewriter
